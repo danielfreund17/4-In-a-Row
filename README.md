@@ -1,4 +1,4 @@
-The 4 In a row game:
+# The 4 In a row game:
 
 You will need this following skills:
 1. Problem Solving - take turns with a computer
